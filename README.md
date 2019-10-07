@@ -8,4 +8,4 @@ The datasets consists of several medical predictor variables and one target vari
 
 i have test this data on saveral Ml algorithm 
 mainly ussing regression and clesstering and decision tree classifier 
-plot results :----
+
